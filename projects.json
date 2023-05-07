@@ -1,9 +1,9 @@
 [
     {
-      "name": "project1",
+      "name": "'Gotchi-Sitter",
       "live": "<https://app.herokuapp.com/whatever>",
-      "git": "<http://www.github.com/username/reponame>",
-      "image": "<http://www.imgur.com/pictureofproject.png>"
+      "git": "https://ant07hony.github.io/Tamagotchi/",
+      "image": "https://i.imgur.com/aVsHPat.png"
     },
     {
       "name": "project2",
