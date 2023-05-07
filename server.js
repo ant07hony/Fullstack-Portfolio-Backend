@@ -14,7 +14,7 @@ app.use(cors())
 
 // HOME ROUTE FOR TESTING APP
 app.get("/", (req,res,next)=>{
-    res.send("Hello World")
+    res.send("Hello, I've been waiting for you!")
 })
 
 // ROUTE FOR RETRIEVING PROJECTS
